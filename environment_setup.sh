@@ -7,6 +7,7 @@ sudo apt update
 # General Tools
 sudo apt install vim
 sudo apt install git
+sudo apt install net-tools
 
 
 # sudo bash install_java.sh
